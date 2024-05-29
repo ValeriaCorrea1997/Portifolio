@@ -1,0 +1,113 @@
+body {
+    width: 100%;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14pt;
+}
+
+.conteudo {
+    width: 100%;
+    background-color: white;
+    
+}
+
+.logo {
+   width: 80%;
+   float:left;
+   padding: 7%;
+   padding-bottom: 5%;
+   
+}
+
+.search {
+    width: 100%;;
+    float: left;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    background-color: gainsboro;
+   
+}
+
+.lupa {
+    padding-left: 1%;
+    padding-top: 2%;
+}
+
+.searchbar {
+    width: 78%;
+    height: 3%;
+    padding-right: 2%;
+}
+
+.categorias {
+    padding-top: 10%;
+    
+    
+}
+.catetitulo {
+    font-weight: bold;
+    font-size: 20pt;
+    width: 100%;
+    padding-top: 10%;
+    margin-top: 7%;
+}
+
+.menu {
+    width: 16%;
+    float: left;
+    background-color: rgb(236, 236, 236);
+}
+
+.products {
+    width: 80%;
+    background-color: white;
+    float: left;
+    padding: 2%;
+}
+
+.games {
+    width: 40%;
+    float:left;
+    background-color: white;
+    padding-bottom: 10%;
+    padding-left: 10%;
+}
+
+.apps {
+    width: 40%;
+    float:left;
+    background-color: white;
+    padding-bottom: 10%;
+    padding-right: 10%;
+}
+
+.lastadded {
+    width: 96%;
+    background-color: gainsboro;
+    float: left;
+    padding: 2%;
+}
+
+.footer {
+    background-color: black;
+    width: 100%;
+    color: white;
+    float: left;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.cattit {
+    padding-top: 2%;
+}
+
+.pi {
+    font-size: 18pt;
+}
+
+.cat {
+    font-size: 18pt;
+}
