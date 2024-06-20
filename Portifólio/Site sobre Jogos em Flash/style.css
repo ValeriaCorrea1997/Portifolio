@@ -1,0 +1,72 @@
+body {
+    background-color: ghostwhite;
+}
+
+@font-face {
+    font-family: Kanit;
+    src: url(Kanit-Bold.ttf);
+  }
+
+@font-face {
+    font-family: Fira;
+    src: url(FiraSans-Black.ttf);
+  }
+
+
+#logo {
+    float: left;
+    padding: 5px;
+    height: 60px;
+    background-color: ghostwhite;
+    width: 10%;
+}
+
+#logo img {
+    width: 60px;
+
+}
+
+#titulo {
+    font-family: Kanit;
+    font-size: 40pt;
+    float: left;
+    padding-bottom: 15px;
+    height: 50px;
+    background-color: ghostwhite;
+    width: 80%;
+}
+
+#destaques {
+    height: 500px;
+    width: 100%;
+    background-color: #6C0000;
+    float: left;
+}
+
+#menu {
+    background-color: #D13523;
+    font-family: Fira;
+    font-size: 20pt;
+    float: left;
+    width: 100%;
+}
+
+#jogos {
+    background-color: #D13523;
+    font-family: Fira;
+    font-size: 20pt;
+    float: left;
+    width: 20%;
+    padding: 10px;
+    border: 2px;
+    border-color: black;
+}
+
+#como {
+    background-color: #D13523;
+    font-family: Fira;
+    font-size: 20pt;
+    float: left;
+    width: 70%;
+    padding: 10px;
+} 

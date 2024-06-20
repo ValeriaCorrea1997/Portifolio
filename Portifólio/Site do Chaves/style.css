@@ -1,0 +1,256 @@
+body {
+    background-color: #dec3a2;
+}
+
+.capa {
+    width: 100%;
+}
+
+.buttons {
+    background-color: #a90000;
+}
+
+.home {
+    background-color: #a90000;
+    border-style: solid;
+    font-family: Josefin Sans;
+    font-size: 20pt;
+    color: ghostwhite;
+    border-color: #a90000;
+    padding: 15px;
+    border-right-color: antiquewhite;
+}
+
+.home:hover {
+    background-color: #400202;
+}
+
+.home a {
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+.news {
+    background-color: #a90000;
+    border-style: solid;
+    font-family: Josefin Sans;
+    font-size: 20pt;
+    color: ghostwhite;
+    border-color: #a90000;
+    padding: 15px;
+    border-right-color: antiquewhite;
+}
+
+.news:hover {
+    background-color: #400202;
+}
+
+.news a {
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+.curiosidadesch {
+    background-color: #a90000;
+    border-style: solid;
+    font-family: Josefin Sans;
+    font-size: 20pt;
+    color: ghostwhite;
+    border-color: #a90000;
+    padding: 15px;
+}
+
+.curiosidadesch:hover {
+    background-color: #400202;
+}
+
+.curiosidadesch a {
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+.titulo1 {
+    font-family: Josefin Sans;
+}
+
+.titulo1 {
+    font-family: Josefin Sans;
+}
+
+.item {
+    background-color: #a4855f;
+    border: #400202;
+    border: 2px;
+    border-radius: 10%;
+    display: block;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin: 80px;
+    width: 300px;
+    height: 200px;
+    font-family: Josefin Sans;
+}
+
+.item:hover {
+    background-color: #886f4f;
+}
+
+.item a {
+    text-decoration: none;
+    color: black;
+}
+
+.imgseries {
+    width: 200px;
+}
+
+.imgfs {
+    width: 70px;
+}
+
+.imginfo {
+    width: 100px;
+}
+
+.item2 {
+    background-color: #a4855f;
+    border: #400202;
+    border: 2px;
+    border-radius: 10%;
+    display: block;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin: 80px;
+    margin-bottom: 0;
+    margin-left: 400px;
+    margin-right: 10px;
+    width: 300px;
+    height: 70px;
+    font-family: Josefin Sans;
+}
+
+.item2:hover {
+    background-color: #886f4f;
+}
+
+.item2 a {
+    text-decoration: none;
+    color: black;
+}
+
+.wrap {
+  display: block;
+  border-radius: 2%;
+  width: 80%;
+  background-color: #a4855f;
+  float: left;
+  font-family: Quicksand;
+  padding: 20px;
+  padding-left: 30px;
+  margin: 30px;
+  margin-left: 100px;
+}
+
+.item3 {
+    background-color: #a4855f;
+    border: #400202;
+    border: 2px;
+    border-radius: 10%;
+    display: block;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin: 80px;
+    margin-bottom: 0;
+    margin-left: 40px;
+    margin-right: 10px;
+    width: 300px;
+    height: 70px;
+    font-family: Josefin Sans;
+}
+
+.item3:hover {
+    background-color: #886f4f;
+}
+
+.item3 a {
+    text-decoration: none;
+    color: black;
+}
+
+.item4 {
+    background-color: #c09f77;
+    border: #400202;
+    border: 2px;
+    border-radius: 10%;
+    display: block;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin: 30px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 10px;
+    width: 300px;
+    height: 200px;
+    font-family: Josefin Sans;
+}
+
+.item4:hover {
+    background-color: #886f4f;
+}
+
+.item4 a {
+    text-decoration: none;
+    color: black;
+}
+
+.imgper {
+    width: 200px;
+    height: 120px;
+}
+
+.voltar {
+    background-color: #a90000;
+    border-style: solid;
+    font-family: Josefin Sans;
+    font-size: 20pt;
+    color: ghostwhite;
+    border-color: #a90000;
+    padding: 15px;
+    border-right-color: antiquewhite;
+    float: left;
+    margin: 100px;
+    margin-top: 0px;
+}
+
+.voltar:hover {
+    background-color: #400202;
+}
+
+.voltar a {
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+.texto {
+    display: block;
+    border-radius: 2%;
+    width: 80%;
+    background-color: #a4855f;
+    float: left;
+    font-family: Quicksand;
+    padding: 20px;
+    padding-left: 30px;
+    margin: 30px;
+    margin-left: 100px;
+  }
+
+  .foto {
+    align-items: center;
+    padding-left: 350px;
+    width: 500px;
+    height: 400px;
+  }
